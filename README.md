@@ -5,7 +5,7 @@
 <img src="./public/Fitdash-Logo.png" alt="FitDash Logo" width="200" height="200" />
 
 ---
-<br>
+🚀 **A comprehensive fitness tracking platform built with modern web technologies to help you achieve your health and wellness goals. Whether you're just starting out or a seasoned athlete, FitDash provides intuitive tools to track progress, plan workouts, and stay motivated on your fitness journey!** 💪
 
 [![React](https://img.shields.io/badge/React-18.3.1-61DAFB?style=flat&logo=react&logoColor=white)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -21,7 +21,6 @@
 [![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-Latest-000000?style=flat&logo=shadcnui&logoColor=white)](https://ui.shadcn.com/)
 [![ESLint](https://img.shields.io/badge/ESLint-9.9.0-4B32C3?style=flat&logo=eslint&logoColor=white)](https://eslint.org/)
 
-🚀 **A comprehensive fitness tracking platform built with modern web technologies to help you achieve your health and wellness goals. Whether you're just starting out or a seasoned athlete, FitDash provides intuitive tools to track progress, plan workouts, and stay motivated on your fitness journey!** 💪
 </div>
 
 ---
