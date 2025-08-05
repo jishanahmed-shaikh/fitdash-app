@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./public/Fitdash-Logo.png" alt="FitDash Logo" width="200" height="200" />
+
 # 🏋️‍♀️ FitDash - Your Fitness Companion
 
 [![React](https://img.shields.io/badge/React-18.3.1-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/)
