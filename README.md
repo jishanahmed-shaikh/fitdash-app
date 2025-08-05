@@ -4,6 +4,7 @@
 
 <img src="./public/Fitdash-Logo.png" alt="FitDash Logo" width="200" height="200" />
 
+---
 <br>
 
 [![React](https://img.shields.io/badge/React-18.3.1-61DAFB?style=flat&logo=react&logoColor=white)](https://reactjs.org/)
@@ -23,6 +24,7 @@
 🚀 **A comprehensive fitness tracking platform built with modern web technologies to help you achieve your health and wellness goals. Whether you're just starting out or a seasoned athlete, FitDash provides intuitive tools to track progress, plan workouts, and stay motivated on your fitness journey!** 💪
 </div>
 
+---
 🔗 **[Live Demo](https://www.fitdash.xyz)** | 📱 **Mobile Friendly** | 🌙 **Dark Mode Support**
 
 ![FitDash Dashboard](public/Dashboard.png)
