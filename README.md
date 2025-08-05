@@ -3,7 +3,6 @@
 # 🏋️‍♀️ FitDash - Your Fitness Companion
 
 <img src="./public/Fitdash-Logo.png" alt="FitDash Logo" width="200" height="200" />
-
 ---
 🚀 **A comprehensive fitness tracking platform built with modern web technologies to help you achieve your health and wellness goals. Whether you're just starting out or a seasoned athlete, FitDash provides intuitive tools to track progress, plan workouts, and stay motivated on your fitness journey!** 💪
 
