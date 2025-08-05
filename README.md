@@ -4,25 +4,31 @@
 
 <img src="./public/Fitdash-Logo.png" alt="FitDash Logo" width="200" height="200" />
 
-[![React](https://img.shields.io/badge/React-18.3.1-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Vite](https://img.shields.io/badge/Vite-5.4.1-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4.11-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![React Router](https://img.shields.io/badge/React_Router-6.26.2-CA4245?style=flat-square&logo=react-router&logoColor=white)](https://reactrouter.com/)
-[![TanStack Query](https://img.shields.io/badge/TanStack_Query-5.56.2-FF4154?style=flat-square&logo=react-query&logoColor=white)](https://tanstack.com/query)
+<br>
 
-[![Recharts](https://img.shields.io/badge/Recharts-2.12.7-8884D8?style=flat-square&logo=chart.js&logoColor=white)](https://recharts.org/)
-[![React Hook Form](https://img.shields.io/badge/React_Hook_Form-7.53.0-EC5990?style=flat-square&logo=reacthookform&logoColor=white)](https://react-hook-form.com/)
-[![Zod](https://img.shields.io/badge/Zod-3.23.8-3E67B1?style=flat-square&logo=zod&logoColor=white)](https://zod.dev/)
-[![Lucide React](https://img.shields.io/badge/Lucide_React-0.462.0-F56565?style=flat-square&logo=lucide&logoColor=white)](https://lucide.dev/)
-[![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-Latest-000000?style=flat-square&logo=shadcnui&logoColor=white)](https://ui.shadcn.com/)
-[![ESLint](https://img.shields.io/badge/ESLint-9.9.0-4B32C3?style=flat-square&logo=eslint&logoColor=white)](https://eslint.org/)
+🚀 **A comprehensive fitness tracking platform built with modern web technologies to help you achieve your health and wellness goals. Whether you're just starting out or a seasoned athlete, FitDash provides intuitive tools to track progress, plan workouts, and stay motivated on your fitness journey!** 💪
+
+<br>
+
+🔗 **[Live Demo](https://www.fitdash.xyz)** | 📱 **Mobile Friendly** | 🌙 **Dark Mode Support**
+
+<br>
+
+[![React](https://img.shields.io/badge/React-18.3.1-61DAFB?style=flat&logo=react&logoColor=white)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Vite](https://img.shields.io/badge/Vite-5.4.1-646CFF?style=flat&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4.11-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![React Router](https://img.shields.io/badge/React_Router-6.26.2-CA4245?style=flat&logo=react-router&logoColor=white)](https://reactrouter.com/)
+[![TanStack Query](https://img.shields.io/badge/TanStack_Query-5.56.2-FF4154?style=flat&logo=react-query&logoColor=white)](https://tanstack.com/query)
+<br>
+[![Recharts](https://img.shields.io/badge/Recharts-2.12.7-8884D8?style=flat&logo=chart.js&logoColor=white)](https://recharts.org/)
+[![React Hook Form](https://img.shields.io/badge/React_Hook_Form-7.53.0-EC5990?style=flat&logo=reacthookform&logoColor=white)](https://react-hook-form.com/)
+[![Zod](https://img.shields.io/badge/Zod-3.23.8-3E67B1?style=flat&logo=zod&logoColor=white)](https://zod.dev/)
+[![Lucide React](https://img.shields.io/badge/Lucide_React-0.462.0-F56565?style=flat&logo=lucide&logoColor=white)](https://lucide.dev/)
+[![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-Latest-000000?style=flat&logo=shadcnui&logoColor=white)](https://ui.shadcn.com/)
+[![ESLint](https://img.shields.io/badge/ESLint-9.9.0-4B32C3?style=flat&logo=eslint&logoColor=white)](https://eslint.org/)
 
 </div>
-
-🚀 FitDash is a comprehensive fitness tracking platform built with modern web technologies to help you achieve your health and wellness goals. Whether you're just starting out or a seasoned athlete, FitDash provides intuitive tools to track progress, plan workouts, and stay motivated on your fitness journey! 💪
-
-🔗 **Live Demo**: [FitDash](https://www.fitdash.xyz) | 📱 **Mobile Friendly** | 🌙 **Dark Mode Support**
 
 ![FitDash Dashboard](public/Dashboard.png)
 
