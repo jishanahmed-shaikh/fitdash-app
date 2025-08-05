@@ -69,7 +69,7 @@
 
 ---
 
-## �️ Tech Stack
+## ⚙️ Tech Stack
 
 ### **Frontend Framework**
 
