@@ -10,10 +10,6 @@
 
 <br>
 
-🔗 **[Live Demo](https://www.fitdash.xyz)** | 📱 **Mobile Friendly** | 🌙 **Dark Mode Support**
-
-<br>
-
 [![React](https://img.shields.io/badge/React-18.3.1-61DAFB?style=flat&logo=react&logoColor=white)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-5.4.1-646CFF?style=flat&logo=vite&logoColor=white)](https://vitejs.dev/)
@@ -29,6 +25,8 @@
 [![ESLint](https://img.shields.io/badge/ESLint-9.9.0-4B32C3?style=flat&logo=eslint&logoColor=white)](https://eslint.org/)
 
 </div>
+
+🔗 **[Live Demo](https://www.fitdash.xyz)** | 📱 **Mobile Friendly** | 🌙 **Dark Mode Support**
 
 ![FitDash Dashboard](public/Dashboard.png)
 
