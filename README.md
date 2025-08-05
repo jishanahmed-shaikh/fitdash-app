@@ -1,5 +1,19 @@
 # 🏋️‍♀️ FitDash - Your Fitness Companion
 
+[![React](https://img.shields.io/badge/React-18.3.1-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Vite](https://img.shields.io/badge/Vite-5.4.1-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4.11-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![React Router](https://img.shields.io/badge/React_Router-6.26.2-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/)
+[![TanStack Query](https://img.shields.io/badge/TanStack_Query-5.56.2-FF4154?style=for-the-badge&logo=react-query&logoColor=white)](https://tanstack.com/query)
+
+[![Recharts](https://img.shields.io/badge/Recharts-2.12.7-8884D8?style=for-the-badge&logo=chart.js&logoColor=white)](https://recharts.org/)
+[![React Hook Form](https://img.shields.io/badge/React_Hook_Form-7.53.0-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)](https://react-hook-form.com/)
+[![Zod](https://img.shields.io/badge/Zod-3.23.8-3E67B1?style=for-the-badge&logo=zod&logoColor=white)](https://zod.dev/)
+[![Lucide React](https://img.shields.io/badge/Lucide_React-0.462.0-F56565?style=for-the-badge&logo=lucide&logoColor=white)](https://lucide.dev/)
+[![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-Latest-000000?style=for-the-badge&logo=shadcnui&logoColor=white)](https://ui.shadcn.com/)
+[![ESLint](https://img.shields.io/badge/ESLint-9.9.0-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)](https://eslint.org/)
+
 FitDash is a comprehensive fitness tracking platform built with modern web technologies to help you achieve your health and wellness goals. Whether you're just starting out or a seasoned athlete, FitDash provides intuitive tools to track progress, plan workouts, and stay motivated on your fitness journey.
 
 🔗 **Live Demo**: [FitDash](https://www.fitdash.xyz)
@@ -11,30 +25,35 @@ FitDash is a comprehensive fitness tracking platform built with modern web techn
 ## ✨ Key Features
 
 ### 📊 **Comprehensive Activity Tracking**
+
 - **Step Counter**: Monitor daily steps with visual progress indicators
 - **Calorie Tracking**: Track calories burned through activities and workouts
 - **Water Intake**: Monitor hydration levels with daily targets
 - **Sleep Monitoring**: Track sleep duration and quality metrics
 
 ### 🎯 **Smart Goal Management**
+
 - Set personalized fitness goals with milestone tracking
 - Progress visualization with completion percentages
 - Goal categories: Steps, Calories, Water, Sleep, and Custom goals
 - Achievement system with badges and rewards
 
 ### 🏃 **Workout Planning & Tracking**
+
 - Pre-built workout library with various exercise types
 - Custom workout creation and scheduling
 - Exercise tracking with sets, reps, and duration
 - Workout history and performance analytics
 
 ### 📈 **Advanced Analytics Dashboard**
+
 - Interactive charts showing progress over time
 - Daily, weekly, and monthly view options
 - Streak tracking and consistency metrics
 - Detailed health insights and recommendations
 
 ### 🏆 **Gamification & Motivation**
+
 - Achievement badges for reaching milestones
 - Streak counters to maintain consistency
 - Daily motivational quotes
@@ -45,6 +64,7 @@ FitDash is a comprehensive fitness tracking platform built with modern web techn
 ## �️ Tech Stack
 
 ### **Frontend Framework**
+
 ```typescript
 // Built with React 18 + TypeScript for type safety
 import React from 'react';
@@ -52,6 +72,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 ```
 
 ### **Styling & UI Components**
+
 ```typescript
 // Tailwind CSS with custom design system
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
@@ -59,6 +80,7 @@ import { Button } from "@/components/ui/button";
 ```
 
 ### **State Management & Data**
+
 ```typescript
 // React Query for server state management
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
@@ -75,6 +97,7 @@ export const userProfile = {
 ```
 
 ### **Complete Technology Stack**
+
 - **Frontend**: React 18, TypeScript, Vite
 - **Styling**: Tailwind CSS, shadcn/ui components
 - **State Management**: TanStack Query, React Context
@@ -91,7 +114,8 @@ export const userProfile = {
 ## 🚀 Getting Started
 
 ### Prerequisites
-- Node.js 18+ 
+
+- Node.js 18+
 - npm or yarn package manager
 
 ### Installation
@@ -151,6 +175,7 @@ src/
 ## 🎨 Component Examples
 
 ### Activity Tracking Card
+
 ```typescript
 const StepsCard = ({ steps, timeRange }: { steps: number, timeRange: string }) => {
   const target = 10000;
@@ -179,6 +204,7 @@ const StepsCard = ({ steps, timeRange }: { steps: number, timeRange: string }) =
 ```
 
 ### Goal Progress Component
+
 ```typescript
 const GoalCard = ({ goal }: { goal: FitnessGoal }) => {
   return (
@@ -197,6 +223,7 @@ const GoalCard = ({ goal }: { goal: FitnessGoal }) => {
 ```
 
 ### Theme Configuration
+
 ```typescript
 // tailwind.config.ts - Custom color palette
 export default {
@@ -222,6 +249,7 @@ export default {
 ## 📱 Features Showcase
 
 ### Dashboard Overview
+
 The main dashboard provides a comprehensive view of your fitness metrics:
 
 ```typescript
@@ -236,6 +264,7 @@ const dashboardData = {
 ```
 
 ### Goal Management System
+
 ```typescript
 interface FitnessGoal {
   id: number;
@@ -253,6 +282,7 @@ interface FitnessGoal {
 ```
 
 ### Workout Tracking
+
 ```typescript
 interface Workout {
   id: number;
@@ -276,18 +306,21 @@ interface Workout {
 ## 🎯 Core Functionality
 
 ### User Profile Management
+
 - Personal statistics tracking
 - Achievement system with progress tracking
 - Social media integration
 - BMI calculation and health insights
 
 ### Data Visualization
+
 - Interactive charts using Recharts
 - Progress tracking over time
 - Comparative analytics (daily/weekly/monthly)
 - Visual progress indicators
 
 ### Responsive Design
+
 - Mobile-first approach
 - Dark/light theme support
 - Accessible UI components
@@ -308,9 +341,10 @@ interface Workout {
 ## 👨‍💻 Developer
 
 **Jishanahmed AR Shaikh**
+
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jishanahmedshaikh)
 - 🐦 [Twitter](https://www.x.com/jishanarshaikh)
-- 📧 Email: shaikhjishan255@gmail.com
+- 📧 Email: <shaikhjishan255@gmail.com>
 - 📍 Location: Mumbai, India
 
 *Passionate about creating intuitive fitness solutions that make healthy living accessible to everyone.*
